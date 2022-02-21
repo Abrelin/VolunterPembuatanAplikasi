@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Naftalia Trivenia Simbolon, [Linkedin](https://www.linkedin.com/in/naftalia-trivenia-simbolon/).
